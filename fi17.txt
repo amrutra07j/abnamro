@@ -1,0 +1,3 @@
+sun heats earth
+earth heats air
+air heats body
